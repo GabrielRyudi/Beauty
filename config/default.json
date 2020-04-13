@@ -1,0 +1,12 @@
+{
+    "mongo":{
+        "username" : "",
+        "password": "",
+        "server": "localhost",
+        "port": 27017,
+        "database": "beautify"
+    },
+    "key":{
+        "key_jwt":"MOKOJNKDAW90087"
+    }
+}
